@@ -6,7 +6,7 @@ class ProfileName extends Component {
     render() { 
         return ( 
             <div className={styles.profileName}>
-                <span>Zeynep Özdem</span>
+                <span>Addy Osmani</span>
           </div>
          );
     }
