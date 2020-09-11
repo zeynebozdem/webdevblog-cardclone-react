@@ -1,0 +1,15 @@
+.mainCard{
+    display: flex;
+    justify-content: start;
+    flex-direction: column;
+    max-width: 400px;
+    min-width: 200px;
+    background-color: #fff;
+    border-radius: 8px;
+    min-height: auto;
+    min-width: 300px;
+    padding: 32px;
+    &:hover{
+        box-shadow: 0 2px 4px -1px rgba(0,0,0,0.2), 0 4px 5px 0 rgba(0,0,0,0.14), 0 1px 10px 0 rgba(0,0,0,0.12);
+    }
+}
